@@ -1,3 +1,6 @@
 [submodule "terraform/airflow_dags/ansible/avengers"]
 	path = terraform/airflow_dags/ansible/avengers
 	url = https://github.com/the-archbishop/avengers.git
+[submodule "terraform/airflow_dags/ansible/edaot"]
+	path = terraform/airflow_dags/ansible/edaot
+	url = https://github.com/the-archbishop/edaot.git
